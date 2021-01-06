@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@hh.ru/react-d3-chart-graphs": "5.3.0",
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "d3-array": "~1.2.0",
     "d3-scale": "~1.0.6",
     "d3-selection": "~1.1.0",
